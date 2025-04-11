@@ -20,3 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurv4&show_icons=true&locale=en" alt="gaurv4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurv4&" alt="gaurv4" /></p>
+<br/>
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h3>Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/murapadev/count.svg" alt="Profile Visitor Count" />
+</div>
