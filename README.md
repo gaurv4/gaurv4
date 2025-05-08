@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mahajan</h1>
-<h3 align="center">👨‍💻 Passionate CS Student | MERN Stack Developer | React Native Developer from India</h3>
+<h3 align="center">👨‍💻 MERN Stack Developer | React Native Developer from India</h3>
 
-- 💬 Ask me about **react.js, Next.js, Mern Stack, React Native**
+- 💬 Ask me about **React.js, Next.js, Mern Stack, React Native**
 
 - 📫 How to reach me **github.gaurav04@gmail.com**
 
