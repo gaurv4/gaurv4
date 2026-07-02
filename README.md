@@ -1,57 +1,106 @@
-# 🎮 GAURAV_MAHAJAN // NEURAL_INTERFACE
+# <p align="center">🔮 GAURAV MAHAJAN // DIGITAL ARCHITECT</p>
+
 <div align="center">
-  <!-- Interactive 3D Cyberpunk Workspace Banner -->
-  <img src="./cyberpunk_3d_banner.jpg" alt="Cyberpunk 3D Workspace Banner" width="100%" style="border-radius: 15px; border: 2px solid #00FFCC;" />
+  <!-- Premium 3D Isometric Cyberpunk Workspace Banner -->
+  <img src="./cyberpunk_3d_banner.jpg" alt="Futuristic Dev Setup" width="100%" style="border-radius: 16px; border: 3px solid #00FFCC; box-shadow: 0px 10px 30px rgba(0, 255, 204, 0.3);" />
 </div>
+
 <br/>
+
 <div align="center">
-  <!-- Scrolling System Typing Status -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=%3E+LOADING+CHARACTER+DATA...;%3E+CLASS%3A+MERN+%26+REACT+NATIVE+MAGE;%3E+SPECIALIZATION%3A+AI+%26+ML+SYNCHRONIZATION" alt="RPG Class Terminal" />
+  <!-- Glowing Interactive Typist Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&height=75&lines=MERN+STACK+ENGINEER;REACT+NATIVE+DEVELOPER;AI+%2F+ML+EXPLORER;BUILDING+THE+FUTURE" alt="Typing Banner" />
 </div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gaurav-mahajan-832032257" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FFCC?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Access_Core-FF007F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:github.gaurav04@gmail.com">
+    <img src="https://img.shields.io/badge/Comms-Secure_Link-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
 ---
-### 🛡️ CHARACTER_SHEET // STATS
+
+### 🌟 SYSTEM PROFILE
 ```ansi
-========================================================================
-  [NAME]      Gaurav Mahajan        [ROLE]      Full-Stack Mage
-  [FACTION]   Final-Year CS Sector  [ALIGNMENT] Open-Source / Learn In Public
-  [LEVEL]     21                    [EXP]       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%
-========================================================================
+┌────────────────────────────────────────────────────────────────────────┐
+│  Final-year Computer Science student engineering next-generation       │
+│  mobile & full-stack web architectures infused with machine learning.  │
+└────────────────────────────────────────────────────────────────────────┘
 ```
-#### 📊 PRIMARY_ATTRIBUTES
-* **⚡ Frontend Agility (React & UI/UX)**
-  `[ ▓▓▓▓▓▓▓▓▓░ 90% ]` — *Fast renders, fluid mobile navigation with React Native.*
-* **🔥 Backend Strength (MERN Stack Core)**
-  `[ ▓▓▓▓▓▓▓▓░░ 80% ]` — *Scalable API architectures, high-performance database indexing.*
-* **🔮 AI & ML Intelligence (Data Processing)**
-  `[ ▓▓▓▓▓▓░░░░ 60% ]` — *Neural network concepts, Python modeling, cognitive intelligence.*
-* **🛡️ DevOps Vitality (Containers & Hosting)**
-  `[ ▓▓▓▓▓░░░░░ 50% ]` — *Docker configurations, deployment strategies, and Linux terminal spells.*
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ CORE DIRECTIVES</h4>
+      <ul>
+        <li><b>MERN Architecture</b>: Building scalable and reliable Node/React APIs.</li>
+        <li><b>Mobile Synchronization</b>: High-performance native UI with React Native.</li>
+        <li><b>Artificial Intelligence</b>: Practical model integration and data engineering.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ CURRENT SUB-ROUTINES</h4>
+      <ul>
+        <li>🌱 Exploring DevOps automation architectures.</li>
+        <li>🧬 Developing ML models & System Design blocks.</li>
+        <li>💬 Inquiries: <b>React, Next.js, MERN, React Native, AI</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
-### 🎒 INVENTORY // EQUIPPED_ITEMS
-```
-   [ WEAPON SLOT ] ─── TypeScript & ES6 JavaScript Core
-   [ ARMOR SLOT  ] ─── Node.js & Express Shell Frame
-   [ OFF-HAND    ] ─── React.js / Next.js SPA Engine
-   [ BOOTS SLOT  ] ─── React Native Hybrid Engine (Multiplatform Mobility)
-   [ RING SLOT I ] ─── MongoDB & PostgreSQL (State Databases)
-   [ SHIELD SLOT ] ─── Docker Container Protection Shield
-```
-<details>
-<summary><b>📂 VIEW EXTENDED INVENTORY (ALL SPELLS & ITEMS)</b></summary>
-<br/>
-* **Languages:** Python, SQL (MySQL, PostgreSQL), JavaScript, TypeScript
-* **Cloud & Tools:** Kubernetes, AWS Cloud Infrastructure, Firebase Systems, Linux Command Line, Git Version Control, TailwindCSS Matrix
-</details>
+
+### 🛠️ COGNITIVE MATRIX // SYSTEM STACK
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>🌐 FRONTEND</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>⚙️ BACKEND & DATA</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    </td>
+    <td align="center" width="34%">
+      <b>☁️ INFRA & CORE</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
 ---
-### 📜 ACTIVE_QUESTS // JOURNAL
-* **🏁 Current Main Quest:**
-  `[IN PROGRESS]` Optimize MERN Stack application responsiveness & expand modular System Design patterns.
-* **🌱 Active Sub-Quest:**
-  `[IN PROGRESS]` Accumulating expertise in **DevOps pipelines** and deploying **AI/ML models** into public applications.
-* **⚡ Passive Buff:**
-  `"I think I’m funny 😄"` (+15 Charisma to team chats, -5 Silence).
----
-### 📈 METRICS // REAL-TIME_TELEMETRY
+
+### 📊 DATA STREAMS // ANALYTICS
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -68,20 +117,14 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurv4&theme=tokyonight&border_radius=10&border_color=8a2be2" alt="GitHub Streak" />
 </div>
+
 ---
-### 📞 SECURE_CHANNEL // TELEMETRY
-```json
-{
-  "comms_channel": "github.gaurav04@gmail.com",
-  "secure_link": "linkedin.com/in/gaurav-mahajan-832032257",
-  "base_terminal": "your-portfolio-link.com"
-}
-```
+
 <div align="center">
-  <br/>
-  <img src="https://profile-counter.glitch.me/gaurv4/count.svg" alt="Telemetry Beacon Counter" />
+  <!-- Glowing Visitor telemetry tracker -->
+  <img src="https://profile-counter.glitch.me/gaurv4/count.svg" alt="Visitor Counter" />
   <br/>
   <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-  <sub>🛸 TELEMETRY INTERCEPT COMPLETED // ACCESS TERMINATED 🛸</sub>
+  <sub>⚡ TERMINAL OFF-LINE // HAVE A GREAT COMPILATION ⚡</sub>
 </div>
